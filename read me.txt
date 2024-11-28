@@ -1,0 +1,9 @@
+
+Login pour l'utilisateur : 
+Username: mohamed.mahir@gmail.com
+Password: mahir2023
+
+
+Login pour l'admin: 
+Username: admin2
+Password:bouchra@2023
